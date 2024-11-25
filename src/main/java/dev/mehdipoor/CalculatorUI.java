@@ -6,6 +6,8 @@ import java.awt.*;
 public class CalculatorUI extends Calculator{
     // Attribute
     String operator = "";
+    String operator12 = "";
+    String operator11 = "";
     static JTextField input;
     static String auxiliary;
     final static int WIDTH_BTN = 95;
